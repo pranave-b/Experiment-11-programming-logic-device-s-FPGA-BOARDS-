@@ -19,7 +19,7 @@ Configuration is complete when the progress bar reaches 100%.
 
 
 ### OUTPUT:
-![](ginal!.jpg)
+![]( GINAL!.jpg)
 
 
 ### RESULTS 
